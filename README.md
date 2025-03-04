@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajashekarReddy7
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently working on new project
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
